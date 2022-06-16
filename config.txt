@@ -1,0 +1,5 @@
+[DEFAULT]
+geometry = 800x520+334+98
+remember = 0
+login = user4
+
