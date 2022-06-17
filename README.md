@@ -6,7 +6,7 @@ You must log in to use the application.
 ![obraz](https://user-images.githubusercontent.com/107646628/174356011-366e48bd-d6eb-4a68-8031-ffff3ca01009.png)
 ![obraz](https://user-images.githubusercontent.com/107646628/174356121-63a60962-403d-49f5-a36c-a60bf27a462f.png)
 
-##After logging in, you can:
+## After logging in, you can:
 
 ### encrypt and decrypt texts 
 Available ciphers:
